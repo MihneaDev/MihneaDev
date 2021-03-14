@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MihneaDev
+- 👀 I’m interested in programming HTML, Python&C++.
+- 🌱 I’m currently learning C and C++.
+- 💞️ I’m looking to collaborate on Zika, my privacy OS project based on Windows.
+- 📫 How to reach me: mihneacoman25@protonmail.com
